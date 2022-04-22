@@ -1,0 +1,25 @@
+- Question 1: What is the IP address for the Laptop?
+    - 192.168.0.1
+    - 10.0.0.100
+    - 172.16.0.252
+    - 255.255.255.0
+- Question 2: What is the default gateway for the PC?
+    - 172.16.0.1
+    - 192.168.0.1
+    - 172.16.0.254
+    - 255.255.255.0
+- Question 3: What is the subnet mask for the PC?
+    - 192.168.200.254
+    - 255.255.255.0
+    - 172.16.0.1
+    - 255.255.255.225
+- Question 4: From the PC or Laptop, open a web browser and navigate to cisco.srv. Open the link titled A small page.  What is the message displayed on the page?
+    - Welcome to Cisco!
+    - Hello, world!
+    - Enjoy our website!
+    - This is a small page.
+- Question 5: Which device connects to the Wireless Router wirelessly?
+    - PC
+    - Cable modem
+    - Server
+    - Laptop
